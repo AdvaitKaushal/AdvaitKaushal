@@ -1,0 +1,78 @@
+2025-05-30 13:03:14,982 - __main__ - INFO - Initializing Advanced Carroll Assistant...
+2025-05-30 13:10:09,148 - __main__ - INFO - AI models loaded successfully
+2025-05-30 13:10:10,568 - __main__ - INFO - Advanced database initialized
+2025-05-30 13:10:10,702 - __main__ - INFO - Premium voice configured
+2025-05-30 13:10:10,702 - __main__ - INFO - Intelligent features configured
+2025-05-30 13:10:10,702 - __main__ - INFO - Advanced Carroll Assistant fully initialized
+2025-05-30 13:10:10,702 - __main__ - INFO - Speaking: Excellent! Hello! I'm Carroll, the smartest AI ever. Let's get started! [emotion: excited, urgency: normal]
+2025-05-30 13:10:18,794 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:10:18,795 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:10:27,116 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:10:27,117 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:10:35,430 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:10:35,431 - __main__ - INFO - Speaking: Let me assist you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:10:43,950 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:10:43,953 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:10:52,389 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:10:52,390 - __main__ - INFO - Speaking: Let me assist you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:00,878 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:00,879 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:09,248 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:09,249 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:17,562 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:17,562 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:25,984 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:25,986 - __main__ - INFO - Speaking: Let me assist you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:34,508 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:34,509 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:42,935 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:42,936 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:51,375 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:51,375 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:11:59,849 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:11:59,853 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:12:08,163 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:12:08,164 - __main__ - INFO - Speaking: Let me assist you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-05-30 13:12:16,658 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-05-30 13:12:16,659 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-02 19:38:36,127 - __main__ - INFO - Initializing Advanced Carroll Assistant...
+2025-06-02 19:38:42,632 - __main__ - INFO - AI models loaded successfully
+2025-06-02 19:38:44,038 - __main__ - INFO - Advanced database initialized
+2025-06-02 19:38:44,160 - __main__ - INFO - Premium voice configured
+2025-06-02 19:38:44,160 - __main__ - INFO - Intelligent features configured
+2025-06-02 19:38:44,160 - __main__ - INFO - Advanced Carroll Assistant fully initialized
+2025-06-02 19:38:44,161 - __main__ - INFO - Speaking: Wonderful! Hello! I'm Carroll, the smartest AI ever. Let's get started! [emotion: excited, urgency: normal]
+2025-06-02 19:38:53,434 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-02 19:38:53,436 - __main__ - INFO - Speaking: Let me assist you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-02 19:39:01,786 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-02 19:39:01,787 - __main__ - INFO - Speaking: Let me assist you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-02 19:39:10,125 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-02 19:39:10,125 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-02 19:39:18,243 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-02 19:39:18,255 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-02 19:39:26,562 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-02 19:39:26,563 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-07 14:47:32,338 - __main__ - INFO - Initializing Advanced Carroll Assistant...
+2025-06-07 14:47:39,124 - __main__ - INFO - AI models loaded successfully
+2025-06-07 14:47:40,962 - __main__ - INFO - Advanced database initialized
+2025-06-07 14:47:41,104 - __main__ - INFO - Premium voice configured
+2025-06-07 14:47:41,104 - __main__ - INFO - Intelligent features configured
+2025-06-07 14:47:41,104 - __main__ - INFO - Advanced Carroll Assistant fully initialized
+2025-06-07 14:47:41,104 - __main__ - INFO - Speaking: Great! Hello! I'm Carroll, the smartest AI ever. Let's get started! [emotion: excited, urgency: normal]
+2025-06-07 14:47:50,351 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-07 14:47:50,352 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-07 14:47:58,907 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-07 14:47:58,908 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-07 14:48:07,384 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-07 14:48:07,387 - __main__ - INFO - Speaking: Let me assist you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-07 14:48:15,953 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-07 14:48:15,955 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-07 14:48:24,479 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-07 14:48:24,481 - __main__ - INFO - Speaking: I'm here for you. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-07 14:48:32,867 - __main__ - ERROR - Main loop error: 'AdvancedCarrollAssistant' object has no attribute 'detect_speech_emotion'
+2025-06-07 14:48:32,868 - __main__ - INFO - Speaking: I want to help. Oops, something went wrong. Let's try again! [emotion: concerned, urgency: normal]
+2025-06-08 18:53:23,580 - __main__ - INFO - Initializing Advanced Carroll Assistant...
+2025-06-08 18:53:30,441 - __main__ - INFO - AI models loaded successfully
+2025-06-08 18:53:31,942 - __main__ - INFO - Advanced database initialized
+2025-06-08 18:53:32,074 - __main__ - INFO - Premium voice configured
+2025-06-08 18:53:32,074 - __main__ - INFO - Intelligent features configured
