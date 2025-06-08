@@ -85,7 +85,9 @@ class AdvancedCarrollAssistant:
         self.microphone = sr.Microphone()
         
         # Vosk for offline speech recognition
-        self.vosk_model = Model("/Users/advaitkaushal/vs code/vosk-model-small-en-us-0.15")
+        # Allow custom model path via environment variable for portability
+        model_path = os.getenv("VOSK_MODEL_PATH", "vosk-model-small-en-us-0.15")
+        self.vosk_model = Model(model_path)
         
         # Database and Storage
         self.USER_DIR = "carroll_users"
@@ -1577,11 +1579,6 @@ I understand natural language, learn from our conversations, and provide persona
             
         except Exception as e:
             logger.error(f"Performance optimization error: {e}")
-
-    def run_advanced_mode(self):
-        """Run Carroll in advanced intelligent mode"""
-        self.advanced_speak(
-            "Hello! I'm Carroll, your advanced AI assistant. I'm much smarter than Siri or")
 
     async def run_advanced_mode(self):
         """Run Carroll in advanced mode"""
